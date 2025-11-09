@@ -52,3 +52,5 @@
 /Users/enhvvshgantulga/Desktop/aspnetcore-webapi-tutorial/TodoApi/bin/Debug/net9.0/SharpCompress.dll
 /Users/enhvvshgantulga/Desktop/aspnetcore-webapi-tutorial/TodoApi/bin/Debug/net9.0/Snappier.dll
 /Users/enhvvshgantulga/Desktop/aspnetcore-webapi-tutorial/TodoApi/bin/Debug/net9.0/ZstdSharp.dll
+/Users/enhvvshgantulga/Desktop/aspnetcore-webapi-tutorial/TodoApi/bin/Debug/net9.0/TodoApi.staticwebassets.runtime.json
+/Users/enhvvshgantulga/Desktop/aspnetcore-webapi-tutorial/TodoApi/obj/Debug/net9.0/compressed/v7fzscjp8g-ivwvsjx5x5.gz

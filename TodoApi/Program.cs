@@ -40,5 +40,8 @@ app.UseSwaggerUI();
 app.UseCors("DevAll");
 app.UseHttpsRedirection();
 
+app.UseDefaultFiles(); // serve wwwroot/index.html by default
+app.UseStaticFiles();
+
 app.MapControllers();
 app.Run();
